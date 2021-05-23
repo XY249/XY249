@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XY249
-- 👀 I’m interested in Machine Learning and Homo Sapiens
+- 👀 I’m interested in Machine Learning, Homo Sapiens and Life
 - 🌱 I’m currently learning how to solve Trackmania by Reinforcement Learning
 
 <!---
