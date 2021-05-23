@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XY249
 - 👀 I’m interested in Machine Learning, Homo Sapiens and Life
-- 🌱 I’m currently learning how to solve Trackmania by Reinforcement Learning
+- 🌱 I’m currently learning how to solve driving in 'Trackmania' game by Reinforcement Learning
 
 <!---
 XY249/XY249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
